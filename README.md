@@ -1,6 +1,3 @@
-# Arabic-English-Langauge-Diarizer
-a project that highlights the need for arabic code-switched datasets and the need for models that accurately do the language diarization task.
-
 # 🔀 Language Code-Switching Identification
 
 An AI-based system for diarizing code-switched speech, focusing on English-Arabic language transitions. This project was developed as part of our graduation requirements for a B.Sc. in Computer Engineering at Birzeit University.
